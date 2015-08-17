@@ -1,0 +1,436 @@
+[Wed Aug 05 14:08:20 2015] [error] [client 67.71.164.12] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 14:16:03 2015] [error] [client 190.249.231.215] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/
+[Wed Aug 05 14:30:36 2015] [error] [client 191.102.114.80] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/contacto.php
+[Wed Aug 05 17:21:21 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Wed Aug 05 17:21:40 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 17:21:40 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 17:21:45 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 17:21:45 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 19:29:22 2015] [error] [client 200.3.164.70] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/
+[Wed Aug 05 19:52:18 2015] [error] [client 24.114.84.123] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 19:52:18 2015] [error] [client 24.114.84.123] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 19:54:55 2015] [error] [client 66.249.83.131] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 20:24:37 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 20:29:42 2015] [error] [client 23.20.81.128] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 20:29:43 2015] [error] [client 23.20.81.128] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.png
+[Wed Aug 05 20:29:43 2015] [error] [client 23.20.81.128] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.gif
+[Wed Aug 05 20:29:43 2015] [error] [client 23.20.81.128] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 05 20:38:37 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Wed Aug 05 20:50:05 2015] [error] [client 199.16.156.124] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 20:50:08 2015] [error] [client 173.192.79.101] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 20:50:09 2015] [error] [client 54.159.24.248] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 20:50:58 2015] [error] [client 37.59.34.187] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 20:58:35 2015] [error] [client 141.105.0.209] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Wed Aug 05 20:58:48 2015] [error] [client 141.105.0.209] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/propuestas.php
+[Wed Aug 05 21:09:49 2015] [error] [client 74.6.254.122] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 21:11:18 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Wed Aug 05 21:11:41 2015] [error] [client 181.130.241.16] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Wed Aug 05 21:13:37 2015] [error] [client 54.159.91.227] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 21:27:03 2015] [error] [client 190.252.254.98] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Wed Aug 05 22:00:31 2015] [error] [client 190.13.44.215] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Wed Aug 05 22:30:41 2015] [error] [client 54.196.22.62] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 22:43:21 2015] [error] [client 174.129.45.71] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 22:43:30 2015] [error] [client 199.16.156.124] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 05 23:53:03 2015] [error] [client 179.13.160.246] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Thu Aug 06 01:10:00 2015] [error] [client 186.84.167.86] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffer7af1f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Thu Aug 06 01:16:18 2015] [error] [client 190.156.107.64] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/index.php
+[Thu Aug 06 01:21:17 2015] [error] [client 191.66.185.29] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffer7af1f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Thu Aug 06 01:36:36 2015] [error] [client 181.51.186.115] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Thu Aug 06 01:58:53 2015] [error] [client 200.118.72.244] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/index.php
+[Thu Aug 06 02:10:08 2015] [error] [client 181.131.214.61] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 02:10:09 2015] [error] [client 181.131.214.61] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 02:10:09 2015] [error] [client 181.131.214.61] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 02:10:21 2015] [error] [client 181.131.214.61] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 02:10:21 2015] [error] [client 181.131.214.61] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 02:15:26 2015] [error] [client 191.78.31.239] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 02:21:15 2015] [error] [client 181.56.86.169] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Thu Aug 06 02:35:53 2015] [error] [client 181.58.136.122] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 02:35:54 2015] [error] [client 181.58.136.122] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 02:56:39 2015] [error] [client 181.55.178.194] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/index.php
+[Thu Aug 06 03:33:57 2015] [error] [client 201.244.131.191] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/index.php
+[Thu Aug 06 03:55:24 2015] [error] [client 199.59.148.209] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 03:55:31 2015] [error] [client 54.196.253.22] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 04:05:05 2015] [error] [client 181.60.35.174] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 04:05:18 2015] [error] [client 181.60.35.174] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 04:05:18 2015] [error] [client 181.60.35.174] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 04:54:16 2015] [error] [client 190.158.146.98] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Thu Aug 06 04:57:30 2015] [error] [client 181.59.204.125] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 04:57:30 2015] [error] [client 181.59.204.125] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 08:33:27 2015] [error] [client 209.133.111.215] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 13:04:41 2015] [error] [client 190.242.79.115] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/index.php
+[Thu Aug 06 13:11:31 2015] [error] [client 190.60.70.62] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/index.php
+[Thu Aug 06 13:26:49 2015] [error] [client 191.95.242.14] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 13:26:58 2015] [error] [client 66.249.75.11] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 13:32:08 2015] [error] [client 190.9.200.179] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/index.php
+[Thu Aug 06 14:44:08 2015] [error] [client 190.158.234.171] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 14:44:08 2015] [error] [client 190.158.234.171] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 14:48:05 2015] [error] [client 200.3.164.103] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/
+[Thu Aug 06 14:58:10 2015] [error] [client 190.165.48.9] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 14:58:24 2015] [error] [client 190.165.48.9] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 15:01:49 2015] [error] [client 199.16.156.124] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 15:01:52 2015] [error] [client 17.142.151.140] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 15:15:53 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:53 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:53 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:53 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:55 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:55 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:55 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:56 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:56 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:56 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:57 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:58 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:59 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:15:59 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:16:00 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:16:00 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:16:00 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:16:01 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:16:01 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/prueba-0723-01
+[Thu Aug 06 15:42:08 2015] [error] [client 199.16.156.124] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 15:43:33 2015] [error] [client 54.91.83.156] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 15:58:47 2015] [error] [client 189.120.138.196] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Thu Aug 06 16:30:29 2015] [error] [client 199.16.156.126] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 17:05:52 2015] [error] [client 66.249.83.131] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 06 17:19:52 2015] [error] [client 190.127.232.221] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Thu Aug 06 17:30:39 2015] [error] [client 199.16.156.124] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 18:23:19 2015] [error] [client 181.52.213.108] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Thu Aug 06 18:30:08 2015] [error] [client 199.16.156.124] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 18:58:41 2015] [error] [client 190.151.224.12] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffer2cc2f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[Thu Aug 06 18:58:41 2015] [error] [client 190.151.224.12] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/propuestas.php
+[Thu Aug 06 20:07:25 2015] [error] [client 199.59.148.211] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 06 20:34:27 2015] [error] [client 191.104.191.162] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/index.php
+[Fri Aug 07 02:20:16 2015] [error] [client 190.128.99.243] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/index.php
+[Fri Aug 07 03:48:16 2015] [error] [client 157.55.39.5] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 03:48:34 2015] [error] [client 157.55.39.18] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 03:48:38 2015] [error] [client 207.46.13.29] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 06:07:42 2015] [error] [client 74.6.254.122] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 09:27:04 2015] [error] [client 66.249.75.27] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 13:50:02 2015] [error] [client 66.249.64.14] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 17:02:05 2015] [error] [client 199.16.156.126] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 17:02:05 2015] [error] [client 199.16.156.125] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 17:02:05 2015] [error] [client 17.142.151.140] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 17:02:07 2015] [error] [client 173.192.79.101] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 17:03:43 2015] [error] [client 23.101.61.176] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Fri Aug 07 17:09:54 2015] [error] [client 54.144.110.17] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 19:07:00 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Fri Aug 07 19:20:03 2015] [error] [client 75.98.9.249] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 19:20:21 2015] [error] [client 190.252.155.1] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Fri Aug 07 19:22:19 2015] [error] [client 38.65.20.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/adform
+[Fri Aug 07 20:25:12 2015] [error] [client 199.16.156.125] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 20:25:12 2015] [error] [client 17.142.151.140] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 20:25:22 2015] [error] [client 199.59.148.210] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 20:25:35 2015] [error] [client 54.80.236.105] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 20:48:02 2015] [error] [client 54.144.110.17] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 07 23:57:31 2015] [error] [client 66.249.83.135] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 01:01:51 2015] [error] [client 190.158.146.98] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Sat Aug 08 01:09:29 2015] [error] [client 200.89.245.118] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 01:15:10 2015] [error] [client 181.134.2.184] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 01:21:11 2015] [error] [client 187.161.166.245] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 01:27:42 2015] [error] [client 190.127.234.104] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 01:27:57 2015] [error] [client 66.249.88.141] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 01:35:11 2015] [error] [client 67.71.164.12] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 01:40:14 2015] [error] [client 181.69.56.254] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 01:40:14 2015] [error] [client 181.69.56.254] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon-precomposed.png
+[Sat Aug 08 01:40:15 2015] [error] [client 181.69.56.254] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon.png
+[Sat Aug 08 01:41:09 2015] [error] [client 191.151.186.249] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 01:41:55 2015] [error] [client 186.103.43.7] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 01:43:06 2015] [error] [client 186.103.43.7] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 01:50:09 2015] [error] [client 186.144.228.236] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 02:01:11 2015] [error] [client 66.249.83.131] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 02:02:11 2015] [error] [client 201.233.141.195] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 02:05:01 2015] [error] [client 98.211.182.244] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 02:11:53 2015] [error] [client 181.140.75.175] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 02:11:53 2015] [error] [client 181.140.75.175] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 02:22:14 2015] [error] [client 181.140.104.58] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 02:24:39 2015] [error] [client 81.184.156.53] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 02:25:33 2015] [error] [client 181.132.145.59] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 02:25:34 2015] [error] [client 181.132.145.59] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 02:25:35 2015] [error] [client 181.132.145.59] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 02:27:45 2015] [error] [client 201.42.114.118] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Sat Aug 08 02:27:45 2015] [error] [client 107.77.68.94] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 02:39:08 2015] [error] [client 186.84.156.248] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 03:33:10 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 03:33:11 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 03:33:11 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 03:43:26 2015] [error] [client 181.242.23.218] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://m.facebook.com/
+[Sat Aug 08 03:47:16 2015] [error] [client 191.95.247.117] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://m.facebook.com/
+[Sat Aug 08 04:08:32 2015] [error] [client 181.207.238.97] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 04:35:31 2015] [error] [client 186.81.216.179] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 05:25:33 2015] [error] [client 181.51.134.190] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 05:36:00 2015] [error] [client 141.8.143.194] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sat Aug 08 05:36:34 2015] [error] [client 190.9.192.26] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 06:09:35 2015] [error] [client 54.158.59.24] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sat Aug 08 10:01:20 2015] [error] [client 190.127.232.207] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 10:41:17 2015] [error] [client 181.140.94.248] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 11:11:39 2015] [error] [client 181.68.99.238] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 12:05:12 2015] [error] [client 181.68.12.155] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 12:07:16 2015] [error] [client 71.252.213.220] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 12:11:01 2015] [error] [client 71.252.213.220] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Sat Aug 08 12:38:38 2015] [error] [client 181.139.25.167] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 12:40:36 2015] [error] [client 186.144.199.237] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 12:53:40 2015] [error] [client 172.56.27.93] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 13:07:20 2015] [error] [client 190.29.158.93] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 13:32:23 2015] [error] [client 201.236.217.23] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 13:33:28 2015] [error] [client 66.249.88.211] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 13:43:38 2015] [error] [client 191.157.53.177] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://m.facebook.com/
+[Sat Aug 08 13:51:05 2015] [error] [client 181.140.71.231] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 13:51:06 2015] [error] [client 181.140.71.231] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 13:51:07 2015] [error] [client 181.140.71.231] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 13:51:29 2015] [error] [client 200.116.125.122] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 13:53:35 2015] [error] [client 172.56.26.136] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 13:54:44 2015] [error] [client 181.140.64.124] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 14:00:05 2015] [error] [client 181.51.173.87] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 14:29:50 2015] [error] [client 168.176.195.5] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 14:30:15 2015] [error] [client 190.71.37.46] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 14:33:05 2015] [error] [client 191.102.114.249] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 14:33:05 2015] [error] [client 191.102.114.249] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 14:39:59 2015] [error] [client 190.127.234.104] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 14:46:54 2015] [error] [client 186.144.231.209] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 15:07:51 2015] [error] [client 181.140.80.128] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 15:21:10 2015] [error] [client 75.98.9.249] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sat Aug 08 15:21:28 2015] [error] [client 66.249.83.134] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 15:23:05 2015] [error] [client 24.114.106.24] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 15:45:12 2015] [error] [client 66.249.83.131] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 16:00:14 2015] [error] [client 152.201.126.114] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 16:00:14 2015] [error] [client 152.201.126.114] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon-precomposed.png
+[Sat Aug 08 16:00:14 2015] [error] [client 152.201.126.114] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon.png
+[Sat Aug 08 16:33:21 2015] [error] [client 181.139.95.220] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 16:41:51 2015] [error] [client 186.80.155.229] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 16:45:05 2015] [error] [client 181.51.139.89] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 16:50:50 2015] [error] [client 181.71.96.207] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://m.facebook.com/
+[Sat Aug 08 17:03:27 2015] [error] [client 190.249.201.94] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 17:03:27 2015] [error] [client 190.249.201.94] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 17:29:09 2015] [error] [client 181.139.101.3] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 18:04:27 2015] [error] [client 191.72.108.126] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://m.facebook.com/
+[Sat Aug 08 18:07:51 2015] [error] [client 191.72.108.126] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://m.facebook.com/
+[Sat Aug 08 18:19:09 2015] [error] [client 181.51.173.87] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 18:40:19 2015] [error] [client 186.82.55.207] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 19:24:51 2015] [error] [client 190.143.6.125] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 19:34:28 2015] [error] [client 152.200.217.148] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 19:34:29 2015] [error] [client 152.200.217.148] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 19:47:14 2015] [error] [client 181.132.136.237] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 20:51:41 2015] [error] [client 190.25.65.247] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 21:19:03 2015] [error] [client 66.249.67.9] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sat Aug 08 21:19:03 2015] [error] [client 66.249.67.16] File does not exist: /var/www/adrianamejiacuartas.co/public_html/m
+[Sat Aug 08 21:42:04 2015] [error] [client 100.43.85.22] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sat Aug 08 21:42:32 2015] [error] [client 161.10.139.83] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 21:48:13 2015] [error] [client 161.18.161.62] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 21:48:13 2015] [error] [client 161.18.161.62] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 21:54:17 2015] [error] [client 181.58.136.140] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 22:01:31 2015] [error] [client 181.140.81.221] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 22:01:31 2015] [error] [client 181.140.81.221] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sat Aug 08 22:04:23 2015] [error] [client 75.74.220.149] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://m.facebook.com/
+[Sat Aug 08 22:04:48 2015] [error] [client 190.250.49.87] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 22:16:32 2015] [error] [client 66.249.67.16] File does not exist: /var/www/adrianamejiacuartas.co/public_html/mobile
+[Sat Aug 08 22:36:40 2015] [error] [client 181.140.113.30] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 22:53:19 2015] [error] [client 181.51.174.8] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sat Aug 08 23:25:18 2015] [error] [client 199.16.156.126] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 01:29:07 2015] [error] [client 190.84.182.4] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Sun Aug 09 01:37:27 2015] [error] [client 184.153.83.173] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 02:15:47 2015] [error] [client 190.127.234.130] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 02:55:48 2015] [error] [client 181.58.141.121] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 03:10:25 2015] [error] [client 186.80.64.69] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 03:13:05 2015] [error] [client 167.0.202.30] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 03:13:36 2015] [error] [client 74.174.236.84] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 04:16:18 2015] [error] [client 191.151.2.64] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://m.facebook.com/
+[Sun Aug 09 05:36:16 2015] [error] [client 181.139.106.89] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 05:38:11 2015] [error] [client 186.112.25.252] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/
+[Sun Aug 09 05:38:54 2015] [error] [client 186.112.25.252] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 05:43:21 2015] [error] [client 199.16.156.125] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 05:43:21 2015] [error] [client 74.6.254.122] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 05:43:43 2015] [error] [client 37.59.35.202] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 05:43:52 2015] [error] [client 54.146.4.187] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 05:47:52 2015] [error] [client 54.91.113.248] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 05:47:52 2015] [error] [client 54.166.16.188] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 05:47:53 2015] [error] [client 54.166.16.188] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 05:47:53 2015] [error] [client 54.91.113.248] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 05:47:53 2015] [error] [client 54.166.16.188] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon.png
+[Sun Aug 09 05:47:53 2015] [error] [client 54.91.113.248] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon.png
+[Sun Aug 09 05:47:53 2015] [error] [client 54.166.16.188] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon-precomposed.png
+[Sun Aug 09 05:47:53 2015] [error] [client 54.91.113.248] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon-precomposed.png
+[Sun Aug 09 05:47:53 2015] [error] [client 54.166.16.188] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 05:47:53 2015] [error] [client 54.91.113.248] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 06:57:14 2015] [error] [client 190.9.193.178] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 06:58:23 2015] [error] [client 141.8.143.194] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 09:04:11 2015] [error] [client 66.249.75.19] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 09:58:17 2015] [error] [client 181.49.10.206] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 09:58:17 2015] [error] [client 181.49.10.206] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 10:44:51 2015] [error] [client 207.46.13.138] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 11:34:08 2015] [error] [client 83.38.108.159] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 11:37:34 2015] [error] [client 62.57.185.163] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 12:41:42 2015] [error] [client 200.35.35.111] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 12:42:58 2015] [error] [client 200.35.35.111] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 13:18:19 2015] [error] [client 181.140.97.72] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Sun Aug 09 14:15:09 2015] [error] [client 66.249.75.27] File does not exist: /var/www/adrianamejiacuartas.co/public_html/m
+[Sun Aug 09 14:24:05 2015] [error] [client 191.146.154.5] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://m.facebook.com/
+[Sun Aug 09 15:09:52 2015] [error] [client 199.16.156.124] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 15:24:04 2015] [error] [client 181.132.106.242] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/propuestas.php
+[Sun Aug 09 15:40:24 2015] [error] [client 66.249.83.131] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 16:29:13 2015] [error] [client 190.84.27.108] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 16:30:34 2015] [error] [client 186.81.181.186] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 17:28:57 2015] [error] [client 190.24.176.113] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Sun Aug 09 17:52:56 2015] [error] [client 190.145.125.136] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 18:24:06 2015] [error] [client 186.145.106.10] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 18:26:21 2015] [error] [client 172.56.6.0] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 18:55:26 2015] [error] [client 181.140.78.46] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 19:29:11 2015] [error] [client 186.84.98.101] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 20:14:04 2015] [error] [client 190.27.15.105] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 22:28:20 2015] [error] [client 207.46.13.138] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Sun Aug 09 22:39:20 2015] [error] [client 181.140.120.195] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Sun Aug 09 23:03:46 2015] [error] [client 168.176.195.4] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 23:03:46 2015] [error] [client 168.176.195.4] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 23:40:53 2015] [error] [client 181.51.150.208] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Sun Aug 09 23:55:06 2015] [error] [client 181.63.89.168] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Mon Aug 10 00:24:21 2015] [error] [client 190.143.7.150] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 01:32:39 2015] [error] [client 141.8.143.194] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Mon Aug 10 03:00:01 2015] [error] [client 181.139.32.233] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 04:46:19 2015] [error] [client 181.139.39.118] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 06:25:30 2015] [error] [client 141.8.143.194] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Mon Aug 10 07:06:40 2015] [error] [client 83.163.71.136] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Mon Aug 10 09:27:05 2015] [error] [client 66.249.75.19] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Mon Aug 10 10:42:12 2015] [error] [client 100.43.90.11] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Mon Aug 10 11:34:08 2015] [error] [client 190.24.43.187] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/
+[Mon Aug 10 11:34:09 2015] [error] [client 190.24.43.187] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon-precomposed.png
+[Mon Aug 10 11:34:09 2015] [error] [client 190.24.43.187] File does not exist: /var/www/adrianamejiacuartas.co/public_html/apple-touch-icon.png
+[Mon Aug 10 12:39:35 2015] [error] [client 190.29.159.133] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 12:45:46 2015] [error] [client 181.143.242.58] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 12:49:36 2015] [error] [client 162.210.196.100] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Mon Aug 10 13:25:36 2015] [error] [client 168.176.195.1] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 13:35:44 2015] [error] [client 130.89.31.105] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/?utm_content=buffera6249&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Mon Aug 10 13:39:45 2015] [error] [client 168.176.195.1] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 13:39:46 2015] [error] [client 168.176.195.1] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 13:40:27 2015] [error] [client 66.249.83.135] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 14:04:37 2015] [error] [client 66.249.83.138] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 14:05:03 2015] [error] [client 186.0.126.151] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/
+[Mon Aug 10 14:09:05 2015] [error] [client 181.132.147.192] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 14:23:40 2015] [error] [client 73.205.92.140] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 14:54:15 2015] [error] [client 191.152.22.99] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 16:46:23 2015] [error] [client 66.249.83.131] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 17:51:23 2015] [error] [client 148.247.42.18] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 17:51:23 2015] [error] [client 148.247.42.18] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 18:03:01 2015] [error] [client 190.101.40.17] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Mon Aug 10 18:11:58 2015] [error] [client 190.29.250.61] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 18:15:07 2015] [error] [client 66.249.75.11] File does not exist: /var/www/adrianamejiacuartas.co/public_html/m
+[Mon Aug 10 18:42:15 2015] [error] [client 200.114.28.197] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 20:14:04 2015] [error] [client 181.58.138.229] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 10 20:15:35 2015] [error] [client 168.176.195.3] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 20:15:35 2015] [error] [client 168.176.195.3] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 10 22:20:40 2015] [error] [client 200.3.164.103] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/
+[Tue Aug 11 00:35:28 2015] [error] [client 108.59.8.70] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Tue Aug 11 02:12:09 2015] [error] [client 73.139.92.175] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Tue Aug 11 03:51:08 2015] [error] [client 190.127.234.81] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Tue Aug 11 05:15:54 2015] [error] [client 216.69.191.232] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Tue Aug 11 05:52:49 2015] [error] [client 66.249.75.19] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Tue Aug 11 08:18:33 2015] [error] [client 181.58.138.229] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Tue Aug 11 09:06:50 2015] [error] [client 62.212.73.211] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Tue Aug 11 12:16:48 2015] [error] [client 190.29.119.69] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Tue Aug 11 14:35:06 2015] [error] [client 66.249.83.131] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Tue Aug 11 16:39:56 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Tue Aug 11 16:39:57 2015] [error] [client 190.90.227.2] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Tue Aug 11 19:45:25 2015] [error] [client 200.3.164.74] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Tue Aug 11 21:15:05 2015] [error] [client 66.249.83.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Tue Aug 11 22:08:51 2015] [error] [client 200.3.164.103] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/
+[Tue Aug 11 22:20:05 2015] [error] [client 190.248.142.162] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/
+[Tue Aug 11 22:42:26 2015] [error] [client 66.249.83.138] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Tue Aug 11 23:03:34 2015] [error] [client 66.249.75.27] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Tue Aug 11 23:28:11 2015] [error] [client 199.59.148.211] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 12 00:37:30 2015] [error] [client 67.71.164.12] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 12 00:37:31 2015] [error] [client 67.71.164.12] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 12 07:17:00 2015] [error] [client 83.163.71.136] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Wed Aug 12 13:15:29 2015] [error] [client 186.0.100.233] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Wed Aug 12 13:24:27 2015] [error] [client 67.71.164.12] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 12 13:52:56 2015] [error] [client 66.249.75.27] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Wed Aug 12 15:32:22 2015] [error] [client 66.249.88.212] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 12 22:11:23 2015] [error] [client 186.28.195.245] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 12 22:11:24 2015] [error] [client 186.28.195.245] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Wed Aug 12 22:42:41 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:42:41 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:42:41 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:42:41 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:44:11 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:44:11 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:44:11 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:44:11 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:44:13 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:44:13 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:44:13 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:44:13 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:46:22 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:48:47 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:48:47 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:48:47 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:48:47 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:48:56 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:48:57 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:49:37 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:49:40 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:49:42 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:51:13 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:51:13 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 22:51:13 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:06:04 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:06:04 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:06:04 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:06:30 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:06:30 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:06:30 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:19:12 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:19:12 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:19:12 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:20:33 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:20:33 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:20:33 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:22:42 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:22:42 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:22:42 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:24:02 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:24:02 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:24:02 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:24:49 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:24:49 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:24:49 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:25:30 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:25:30 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:25:30 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:25:37 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:25:37 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:25:37 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:26:16 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:26:16 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:26:16 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:26:45 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:26:45 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:26:45 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:26:59 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:26:59 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Wed Aug 12 23:26:59 2015] [error] [client 190.146.135.161] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 00:05:00 2015] [error] [client 66.249.83.131] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 13 09:27:05 2015] [error] [client 66.249.75.27] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Thu Aug 13 12:33:18 2015] [error] [client 50.18.170.106] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:33:18 2015] [error] [client 50.18.170.106] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:33:18 2015] [error] [client 50.18.170.106] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:33:18 2015] [error] [client 50.18.170.106] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:50:46 2015] [error] [client 50.18.170.106] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:50:46 2015] [error] [client 50.18.170.106] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:50:46 2015] [error] [client 50.18.170.106] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:50:46 2015] [error] [client 50.18.170.106] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:50:53 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:50:53 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:50:53 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 12:50:53 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email
+[Thu Aug 13 13:14:48 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/email/_templatebuilder/
+[Thu Aug 13 13:46:47 2015] [error] [client 66.249.83.142] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Thu Aug 13 15:17:14 2015] [error] [client 50.18.170.106] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email/logo.jpg
+[Thu Aug 13 15:17:15 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email/logo.jpg
+[Thu Aug 13 15:17:43 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email/logo.pg
+[Thu Aug 13 15:17:43 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email/logo.g
+[Thu Aug 13 15:17:43 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email/logo.
+[Thu Aug 13 15:17:44 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email/logo.p
+[Thu Aug 13 15:17:44 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/email/logo.pn
+[Thu Aug 13 22:58:34 2015] [error] [client 199.16.156.125] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
+[Fri Aug 14 02:16:41 2015] [error] [client 67.71.164.12] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico
+[Mon Aug 17 15:34:45 2015] [error] [client 24.28.20.139] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://www.adrianamejiacuartas.co/
+[Mon Aug 17 15:38:29 2015] [error] [client 190.29.250.90] File does not exist: /var/www/adrianamejiacuartas.co/public_html/favicon.ico, referer: http://adrianamejiacuartas.co/perfil.php
+[Mon Aug 17 18:22:01 2015] [error] [client 199.16.156.124] File does not exist: /var/www/adrianamejiacuartas.co/public_html/robots.txt
