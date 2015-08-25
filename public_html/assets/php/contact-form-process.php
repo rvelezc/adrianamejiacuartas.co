@@ -19,7 +19,7 @@ function registrar_email_en_mailchimp($email, $name, $last)
     $merge_vars = array('FNAME'=>$name, 'LNAME'=>$last);
     $MailChimp = new Mailchimp('');
     $result = $MailChimp->call('lists/subscribe', array(
-            'id'                => 'dfc977dc5f',
+            'id'                => '',
             'email'             => array('email'=>$email),
             'merge_vars'        => $merge_vars,
             'double_optin'      => false,
