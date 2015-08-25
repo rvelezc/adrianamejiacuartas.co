@@ -17,7 +17,7 @@ function registrar_email_en_mailchimp($email, $name, $last)
 {
     require_once 'mailchimp/Mailchimp.php';
     $merge_vars = array('FNAME'=>$name, 'LNAME'=>$last);
-    $MailChimp = new Mailchimp('f53739c225a50f01322586b683efc9a1-us11');
+    $MailChimp = new Mailchimp('');
     $result = $MailChimp->call('lists/subscribe', array(
             'id'                => 'dfc977dc5f',
             'email'             => array('email'=>$email),
